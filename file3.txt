@@ -1,2 +1,4 @@
 This is file 3 content added on master, this file was created on master"
 	This file was modified in branch 3
+
+Another new line added on master this happens to be line 3 on the master
