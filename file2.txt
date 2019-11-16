@@ -1,1 +1,4 @@
 This is file2 added on master
+  This like was added by branch2
+     This line was added by branch3
+         Branch 2 added this line
